@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>perf.qml</file>
-    </qresource>
-</RCC>
